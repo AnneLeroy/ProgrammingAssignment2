@@ -26,9 +26,6 @@
 ##       [2,]    0    1
 
 
-  
-
-
 
  # This function creates the matrice and initialize cache to NULL
  
